@@ -9,5 +9,5 @@ Abrir el archivo index.html en el browser, una vez abierto mover el cursor por l
 # Roadmap of future work
 Aleatoriamente se inserten caras de celebridades.
 
-# Lisence information
-MIT lisence
+# Licence information
+
