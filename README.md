@@ -4,7 +4,15 @@
  Es una página web con "ojos" que siguen el cursor, usando JavaScript para ajustar su posición basada en las coordenadas del mouse.
 
 # HOW TO RUN IT
-Abrir el archivo index.html en el browser, una vez abierto mover el cursor por la pantalla.
+```bash
+# Clone este proyecto (desde la terminal)
+$ git clone https://github.com/betoje/0108-EyeMovement.git
+
+# Acceda al directorio
+$ cd 0108-EyeMovement
+
+# Arrastre el archvo index.html a su navegador de elección.
+```
 
 # Roadmap of future work
 Aleatoriamente se inserten caras de celebridades.
